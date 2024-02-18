@@ -184,6 +184,8 @@ This plot facilitates the comparison of occupancy rates among the top-performing
 
 
 ![image](https://github.com/sowmyar64/Real-estate/assets/43263218/3839b4a1-f687-4bed-b1f2-85c02d727b30)
+![image](https://github.com/sowmyar64/Real-estate/assets/43263218/56127a85-3aff-4516-85a6-de518fa883c7)
+![image](https://github.com/sowmyar64/Real-estate/assets/43263218/c9fe6d14-678b-4990-a472-b44fb8c11628)
 
 The scatter plots above depict relationships between different variables in the market analysis dataset:
 
@@ -208,7 +210,8 @@ The scatter plot helps identify how changes in nightly rates affect revenue gene
 ###### Interpretation: 
 The scatter plot allows us to examine how the length of stay influences occupancy rates. Properties with longer average stays may exhibit higher occupancy rates, indicating potential opportunities to target guests seeking extended accommodations.
 
-
+# Conclusion
+The analysis of Airbnb data reveals key insights for property owners and investors. Geographic distribution highlights popular rental areas, while revenue and occupancy trends show seasonal variations with a positive correlation. Property features like hot tubs and pools are prevalent, often with a moderate positive correlation between them. Location-based analysis identifies high-demand areas, aiding investment decisions. Market trends uncover seasonal patterns and guide pricing strategies. Overall, these insights optimize revenue and occupancy rates in the Airbnb real estate market.
 
 
 
